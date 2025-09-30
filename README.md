@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there its's Yavuz Selim Ozkan from Istanbul👋
 
-<!--
-**yavuzselimozkan/yavuzselimozkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Kotlin Jetpack Compose
+- 🌱 I’m currently learning Spring Boot
+- 🎯 Future goal is starting my own software company
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies I Work With
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-%239B5DE5.svg?logo=kotlin&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?logo=jetpackcompose&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-005C84.svg?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white&style=for-the-badge" />
+</p>
