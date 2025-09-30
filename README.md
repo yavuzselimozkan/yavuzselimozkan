@@ -9,7 +9,7 @@
  ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzselimozkan&layout=compact&theme=dark&hide=swift,objectivec,dart" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzselimozkan&layout=compact&theme=radical-dark" alt="Top Languages" />
 </p>
 
 
