@@ -1,4 +1,4 @@
-## Hi there its's Yavuz Selim Ozkan from Istanbul👋
+## Hi there! Its's Yavuz Selim Ozkan from Istanbul👋
 
 
 - 🔭 I’m currently working on Kotlin Jetpack Compose
