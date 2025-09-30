@@ -9,7 +9,7 @@
  ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yavuzselimozkan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzozkan&layout=compact&langs_count=6&hide=c,html,css,javascript&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
