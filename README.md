@@ -5,6 +5,19 @@
 - 🌱 I’m currently learning Spring Boot
 - 🎯 Future goal is starting my own software company
 
+
+ ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yavuzozkan&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzozkan&layout=compact" alt="Top Languages" />
+</p>
+
+
+
 ## 💻 Technologies I Work With
 
 <table align="center">
