@@ -8,10 +8,10 @@
 ## 💻 Technologies I Work With
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-%239B5DE5.svg?logo=kotlin&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?logo=jetpackcompose&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-005C84.svg?logo=mysql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white&style=for-the-badge" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="60" alt="Jetpack Compose" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="60" alt="Postman" />
 </p>
