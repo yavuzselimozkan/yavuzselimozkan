@@ -8,9 +8,7 @@
 
  ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzozkan&layout=compact&langs_count=6&hide=c,html,css,javascript&theme=radical" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzozkan&layout=compact&hide=c,dart,html,css,javascript&theme=radical" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzselimozkan&layout=compact" alt="Top Languages" />
